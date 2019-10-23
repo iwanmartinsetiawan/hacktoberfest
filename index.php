@@ -33,12 +33,9 @@
 
 	<!--====== Style css ======-->
 	<link rel="stylesheet" href="assets/css/style.css">
-
-
 </head>
 
 <body>
-
 	<!--====== PRELOADER PART START ======-->
 
 	<div class="preloader">
